@@ -4,12 +4,12 @@
 
 L'objectif de ce tutoriel est d'apprendre à intégrer Firebase dans mes applications Flutter. Je vais utiliser Firebase Cloud Firestore ainsi que le package d'authentification Firebase pour doter mon application d'une base de données NoSQL basée sur le cloud et de méthodes d'authentification sécurisées.
 
-## Ce que je vais créer
+## Ce que j'ai créé
 
 Je vais construire une application de messagerie moderne où les utilisateurs peuvent s'inscrire et se connecter pour discuter.
 
 
-## Ce que je vas apprendre
+## Ce que j'ai appris
 
 - Intégrer Firebase dans mes projets Flutter.
 - Utiliser l'authentification Firebase pour l'inscription et la connexion des utilisateurs.
